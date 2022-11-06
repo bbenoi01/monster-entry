@@ -1,0 +1,26 @@
+.container {
+	padding-top: 70px;
+}
+
+.input-group-text {
+	cursor: pointer;
+}
+
+.map {
+	height: 86px;
+	overflow-y: auto;
+}
+
+.map > text {
+	cursor: pointer;
+}
+
+#submit-container {
+	display: flex;
+	flex-direction: column;
+}
+
+#submit-btn {
+	align-self: center;
+	margin-bottom: 20px;
+}

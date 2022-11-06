@@ -1,0 +1,11 @@
+.navbar {
+	background-color: navy;
+}
+
+#brand {
+	color: goldenrod;
+}
+
+#auth-btn {
+	border-radius: 20px;
+}
